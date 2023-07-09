@@ -1,3 +1,3 @@
 # The Forest
 
-The digital equavillent of an actual forest like from reality.
+The digital equivalent of an actual forest like from reality.
