@@ -9,11 +9,27 @@ html, body {
 body {
     font-family: 'Nunito', sans-serif;
     font-size: 1.2rem;
-    background: lightgrey;
+    background: #F4EBD9;
     padding: 80px;
 }
 
 .container {
     display: flex;
     justify-content: center;
+}
+
+.tree {
+    fill: #04E762;
+}
+
+.stone {
+    fill: #77685D;
+}
+
+.water {
+    fill: #00A1E4;
+}
+
+.dirt {
+    fill: #eee0c4;
 }
